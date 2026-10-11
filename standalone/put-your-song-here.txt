@@ -1,0 +1,5 @@
+Put your song in this folder and name it:  song.mp3
+
+(You can change the file name in src/config.js -> song.file)
+
+If there is no song.mp3 here, the site plays a built-in gentle melody instead.
